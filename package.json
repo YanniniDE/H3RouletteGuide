@@ -1,0 +1,47 @@
+{
+  "name": "Hitman-Guide",
+  "version": "0.0.1",
+  "private": true,
+  "homepage": "",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "core-js": "^2.6.5",
+    "devextreme": "20.1-stable",
+    "devextreme-vue": "20.1-stable",
+    "json-loader": "^0.5.7",
+    "sass-loader": "^7.1.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "whatwg-fetch": "^3.4.0",
+    "scavenger-hunt-hidden": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.0.0-rc.21",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "vue-awesome": "^3.5.3",
+    "vue-template-compiler": "^2.6.10",
+    "devextreme-themebuilder": "20.1-stable"
+  },
+  "optionalDependencies": {
+    "scavenger-hunt-hidden": "^1.0.0"
+  },
+  "description": "```\r npm install\r ```",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
